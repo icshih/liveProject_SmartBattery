@@ -1,0 +1,9 @@
+ {"namespace": "net.icshih.avro",
+            "type": "record",
+            "name": "Test",
+            "fields": [
+        {"name": "first_name", "type": "string"},
+        {"name": "last_name",  "type": "string"},
+        {"name": "battery_id", "type": "string"}
+ ]
+    }
